@@ -1,0 +1,2 @@
+[2025-05-19 17:24] Cliente 11 alquiló "Terminator"
+[2025-05-19 17:24] Cliente 11 devolvió "Terminator"
